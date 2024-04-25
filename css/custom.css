@@ -1,0 +1,15 @@
+.rakib .content .box{
+    padding: 20px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} 
+.rakib .content .card{
+    background-color: red;
+    position: absolute;
+    left: 50%;
+}
+body{
+    background-color: red;
+}
